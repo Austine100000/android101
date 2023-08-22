@@ -54,4 +54,3 @@ fun Mylist() {
     Simplelistview()
 
     }
-https://github.com/Austine100000/android101.git
